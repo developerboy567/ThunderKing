@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an Anime themed group management bot.Created By @Developer_boy_sd_owner @Itz_Mr_Hillarious 
+I am an  group management bot For Your Anytype of Group Anime Or regular.Created By @Developer_boy_sd_owner & @Itz_Mr_Hillarious 
 Made With ❤ I specialize in managing your group with my advance features.
 
 You can find my list of available commands with /help.
@@ -82,7 +82,7 @@ THUNDER_IMG = "https://telegra.ph/file/66455ecc1018b1ac294ef.jpg"
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Thunder is hosted on one of Developer Boy and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of supporting him; [PayPal](paypal.me/), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
